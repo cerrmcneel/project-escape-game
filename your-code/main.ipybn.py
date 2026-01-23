@@ -44,8 +44,8 @@ key_e = {"name": "key for door e", "type": "key", "target": door_e}
 object_relations = {
     "game room": [couch, dining_table, tv, door_a],
     "music room": [carpet, piano, guitar, mona_lisa, door_b],
-    "bedroom 1": [queen_bed, painting, door_b, door_c, door_d],
-    "bedroom 2": [safe, door_c],
+    "bedroom 1": [queen_bed, painting, door_b, door_c],
+    "bedroom 2": [safe, door_c, door_d],
     "living room": [dead_men, picture, door_d, door_e],
     "escape room": [door_f],
 }
